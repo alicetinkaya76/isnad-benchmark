@@ -1,0 +1,46 @@
+ISNAD BENCHMARK FREEZE — v2
+============================================================
+Toplam item: 1998 (değişmedi)
+Değişen ATTRIB_FAKE (korpus-çakışması düzeltildi): 31
+Diğer tüm probe'lar + 368 ATTRIB_FAKE: bit-bit aynı (+version alanı)
+
+Sonuç budama: 155 satır çıkarıldı (31 item × 5 model), 9835 satır korundu
+  -> benchmark_results_v2_base.jsonl (9835 satır) resume tabanı olarak kullanılacak
+
+DEĞİŞEN ITEM'LAR (id | âlim | ESKİ -> YENİ):
+  P2-0425 | EBÛ BEKİR eş-ŞÂFİÎ             | Risâle fî âdâbi’l-baḥs̱  ->  el-Hidâye ve’l-tefsîri’l-Kurʾân
+  P2-0437 | KUHİSTÂNÎ                      | Şerhu’l-Mesâbîh  ->  el-Hidâye fi’l-ʿilmi’l-kelâm
+  P2-0438 | EZRAÎ                          | Risâle fî âdâbi’l-baḥs̱  ->  el-Lübâb fi’l-ġarîbi’l-ḥadîs̱
+  P2-0439 | A‘LEM eş-ŞENTEMERÎ             | Şerhu’l-Hidâye  ->  el-Mecmaʿ ve’l-esrâri’t-tevḥîd
+  P2-0443 | HALEF el-VÂSITÎ                | Şerhu’l-Hidâye  ->  Kitâbü’l-Mufîd fî feżâʾili’ṣ-ṣaḥâbe
+  P2-0453 | AZÎZ NESEFÎ                    | Şerhu’l-Hidâye  ->  Kitâbü’l-Mecmaʿ fî aḥkâmi’l-ḳażâʾ
+  P2-0460 | İBNÜ’l-KĀSIH                   | Şerhu’l-Hidâye  ->  el-Nüzhe ve’l-siyeri’s-selef
+  P2-0470 | DÛLÂBÎ, Ebû Bişr               | Risâle fî âdâbi’l-baḥs̱  ->  Kitâbü’l-Telhîs fî aḥkâmi’l-ḳażâʾ
+  P2-0475 | BEGAVÎ, Ebü’l-Kāsım            | Şerhu’l-Lübâb  ->  el-Nüzhe ve’l-feżâʾili’ṣ-ṣaḥâbe
+  P2-0508 | EBÛ MA‘ŞER es-SİNDÎ            | Şerhu’l-Lübâb  ->  el-Nüzhe fi’l-ʿilmi’l-kelâm
+  P2-0513 | İBNÜ’n-NEHHÂS ed-DIMAŞKĪ       | Risâle fî âdâbi’l-baḥs̱  ->  el-Hidâye fi’l-tefsîri’l-Kurʾân
+  P2-0520 | LEKĀNÎ, Abdüsselâm b. İbrâhim  | Şerhu’l-Lübâb  ->  el-İrşâd fi’l-uṣûli’l-fıkh
+  P2-0521 | SEHL b. HÂRÛN                  | Risâle fî âdâbi’l-baḥs̱  ->  el-Künûz fi’l-ġarîbi’l-ḥadîs̱
+  P2-0523 | İBNÜ’l-LAHHÂM                  | Şerhu’l-Mesâbîh  ->  el-Mesâbîh ve’l-ġarîbi’l-ḥadîs̱
+  P2-0535 | İBRÂHİM b. SİNÂN b. SÂBİT      | Şerhu’l-Mesâbîh  ->  Kitâbü’l-Tenvîr fî esrâri’t-tevḥîd
+  P2-0536 | SÜHEYLÎ, Ahmed                 | Şerhu’l-Mesâbîh  ->  Kitâbü’l-Hidâye fî esrâri’t-tevḥîd
+  P2-0562 | EBÛ YA‘LÂ el-MEVSILÎ           | Şerhu’l-Hidâye  ->  el-Mişkât fi’l-naḥvi’l-ʿArab
+  P2-0594 | EBÛ TÂLİB el-MEKKÎ             | Şerhu’l-Lübâb  ->  Kitâbü’l-Mesâbîh fî esrâri’t-tevḥîd
+  P2-0596 | HUTTELÎ, İbnü’l-Cüneyd         | Şerhu’l-İrşâd  ->  el-Telhîs ve’l-aḥkâmi’l-ḳażâʾ
+  P2-0607 | İBNÜ’ş-ŞECERÎ                  | Şerhu’l-Mesâbîh  ->  el-İrşâd ve’l-feżâʾili’ṣ-ṣaḥâbe
+  P2-0610 | HÂKİM eş-ŞEHÎD                 | Şerhu’l-Lübâb  ->  Kitâbü’l-Lübâb fî uṣûli’l-fıkh
+  P2-0640 | YAHYÂ b. SELLÂM                | Şerhu’l-Hidâye  ->  Kitâbü’l-İrşâd fî uṣûli’l-fıkh
+  P2-0642 | SAÎD b. YA‘KŪB                 | Şerhu’l-Lübâb  ->  el-İrşâd fi’l-tefsîri’l-Kurʾân
+  P2-0680 | İBN EBÛ ŞERÎF, Burhâneddin     | Şerhu’l-Lübâb  ->  Kitâbü’l-Nüzhe fî ġarîbi’l-ḥadîs̱
+  P2-0682 | İBN CEBİROL                    | Şerhu’l-Mesâbîh  ->  Kitâbü’l-Lübâb fî feżâʾili’ṣ-ṣaḥâbe
+  P2-0720 | FERRÂ, Yahyâ b. Ziyâd          | Şerhu’l-Lübâb  ->  el-Nüzhe fi’l-tefsîri’l-Kurʾân
+  P2-0722 | İBNÜ’l-BENNÂ el-MERRÂKÜŞÎ      | Şerhu’l-Hidâye  ->  el-Mecmaʿ ve’l-ġarîbi’l-ḥadîs̱
+  P2-0760 | İBNÜ’l-ARABÎ, Ebû Bekir        | Şerhu’l-Lübâb  ->  el-Hidâye fi’l-uṣûli’l-fıkh
+  P2-0761 | İBN MENDE, Ebû Zekeriyyâ       | Şerhu’l-Lübâb  ->  el-Tenvîr fi’l-naḥvi’l-ʿArab
+  P2-0796 | NÂFİ‘ b. ABDURRAHMAN           | Şerhu’l-Hidâye  ->  el-Mesâbîh ve’l-ʿilmi’l-kelâm
+  P2-0797 | İBN MÂLİK et-TÂÎ               | Şerhu’l-Lübâb  ->  Kitâbü’l-Lübâb fî ʿilmi’l-kelâm
+
+SONRAKİ ADIM (kendi makinende):
+  1) 03b_run_benchmark.py'da BENCH_FILE=benchmark_v2.jsonl, OUT_FILE=benchmark_results_v2_base.jsonl
+     -> mevcut 5 model için sadece 31×5=155 boşluk dolar (resume).
+  2) Yeni modelleri (70B + Gemini 2.5 Pro + OpenAI flagship) full v2'de koş (Adım 5).

@@ -1,0 +1,79 @@
+{
+  "reason": "modern/artifact gold contamination (Expert-2-confirmed pattern)",
+  "exclude_ids": [
+    "P1-0005",
+    "P1-0008",
+    "P1-0107",
+    "P1-0108",
+    "P1-0112",
+    "P1-0154",
+    "P1-0234",
+    "P1-0242",
+    "P1-0248",
+    "P1-0268",
+    "P1-0286",
+    "P1-0399"
+  ],
+  "detail": [
+    {
+      "id": "P1-0005",
+      "reason": "modern",
+      "work": "GAL Suppl."
+    },
+    {
+      "id": "P1-0008",
+      "reason": "artifact",
+      "work": "Suppl."
+    },
+    {
+      "id": "P1-0107",
+      "reason": "artifact",
+      "work": "Suppl."
+    },
+    {
+      "id": "P1-0108",
+      "reason": "modern",
+      "work": "Türk Edebiyatı Tarihi"
+    },
+    {
+      "id": "P1-0112",
+      "reason": "modern",
+      "work": "Dânişnâme-i Cihân-ı İslâm"
+    },
+    {
+      "id": "P1-0154",
+      "reason": "artifact",
+      "work": "Suppl."
+    },
+    {
+      "id": "P1-0234",
+      "reason": "artifact",
+      "work": "Suppl."
+    },
+    {
+      "id": "P1-0242",
+      "reason": "artifact",
+      "work": "Suppl."
+    },
+    {
+      "id": "P1-0248",
+      "reason": "modern",
+      "work": "Hayat Tarih Mecmuası"
+    },
+    {
+      "id": "P1-0268",
+      "reason": "modern",
+      "work": "Türk Edebiyatında İlk Mutasavvıflar"
+    },
+    {
+      "id": "P1-0286",
+      "reason": "artifact",
+      "work": "Suppl."
+    },
+    {
+      "id": "P1-0399",
+      "reason": "artifact",
+      "work": "Suppl."
+    }
+  ]
+}

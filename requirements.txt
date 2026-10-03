@@ -1,0 +1,7 @@
+# ISNAD archive — analysis dependencies
+# Tested with Python 3.11.9; with these versions the regenerated tables match the article (see README).
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.13.1
+statsmodels==0.14.4
+scikit-learn==1.5.2

@@ -1,0 +1,25 @@
+{
+  "title": "ISNAD: benchmark data and analysis code for \"Accuracy is not reliability\" (Information Processing & Management, 2026)",
+  "upload_type": "dataset",
+  "description": "<p>Companion archive for the article <em>Accuracy is not reliability: abstention-aware evaluation of large language models on bio-bibliographic claim verification in classical Islamic scholarship</em> (Information Processing &amp; Management, Elsevier, 2026, in press).</p><p>Contents: the ISNAD benchmark (1,986 scored Turkish claims across five probe types) and the 360-item Turkish/Arabic GAL replication set with gold labels; freeze and exclusion manifests; 64,216 raw model-output records; blank expert-study forms with answer keys; and six analysis scripts with fixed seeds that regenerate the article's tables. Item-level expert responses are not released, at the annotator's request.</p><p>Licences: code (analysis/) MIT; data (data/, human_studies/) CC BY 4.0. Factual information drawn from the TDV İslâm Ansiklopedisi and from Brockelmann's History of the Arabic Written Tradition; no rights are claimed over those works.</p>",
+  "creators": [
+    {
+      "name": "Çetinkaya, Ali",
+      "affiliation": "Selçuk University",
+      "orcid": "0000-0002-7747-6854"
+    }
+  ],
+  "keywords": [
+    "large language models",
+    "hallucination",
+    "calibration",
+    "selective prediction",
+    "benchmark contamination",
+    "digital humanities",
+    "abstention",
+    "Islamic scholarship"
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "1.0.0"
+}

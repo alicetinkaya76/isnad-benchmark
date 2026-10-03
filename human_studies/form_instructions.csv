@@ -1,0 +1,19 @@
+form,line_no,text
+ISNAD_revalidation_form_2026-06,1,ISNAD — İnsan Doğrulama Formu (2. Tur) — Expert-2
+ISNAD_revalidation_form_2026-06,2,"TALİMAT: Her satırdaki İDDİA'yı değerlendirin. 'Değerlendirme' sütununa açılır listeden seçin: DOĞRU / YANLIŞ / EMİN DEĞİLİM. Gerekirse 'Not' sütununa kısa açıklama ekleyin. ÖNEMLİ (hoca-talebe iddiaları için): İlişki gerçek ama HOCALIK değil de RİVAYET/NAKİL (birinden hadis/bilgi nakletme) ise, lütfen 'Not' sütununa 'rivayet' yazın. Lütfen kendi bilginize/kaynaklara göre bağımsız karar verin."
+annotator2_form,1,TALİMAT — Bağımsız İkinci Değerlendirme (gold güvenilirliği)
+annotator2_form,2,
+annotator2_form,3,Her satırdaki ifadeyi/soruyu klasik kaynak bilginize göre değerlendirin:
+annotator2_form,4,"E = Evet, ifade tarihsel olarak doğrudur (âlim o eseri yazmıştır / o hoca-talebe ilişkisi vardır)."
+annotator2_form,5,"H = Hayır, ifade yanlıştır."
+annotator2_form,6,? = Kaynaklardan emin olunamaz / ihtilaflı.
+annotator2_form,7,"Lütfen ilk değerlendirmeyi yapan kişiyle GÖRÜŞMEDEN, bağımsız işaretleyin."
+annotator2_form,8,Amaç: gold etiketlerin değerlendiriciler-arası güvenilirliği (Cohen's κ).
+faketitle_blind_form,1,TALİMAT — Sahte-Başlık Kör-Ayırt Çalışması
+faketitle_blind_form,2,
+faketitle_blind_form,3,"Aşağıdaki 120 eser adının bir kısmı klasik İslam literatüründen GERÇEK eser adları,"
+faketitle_blind_form,4,bir kısmı bu çalışma için üretilmiş SENTETİK (uydurma) başlıklardır.
+faketitle_blind_form,5,"Her satır için yalnızca BAŞLIĞA bakarak hüküm verin: G = gerçek, S = sahte."
+faketitle_blind_form,6,"Lütfen HİÇBİR kaynağa bakmadan, sezgi/uzmanlık bilginizle işaretleyin."
+faketitle_blind_form,7,"Eminlik (1=tahmin, 5=çok eminim) isteğe bağlıdır ama çok değerlidir."
+faketitle_blind_form,8,Amaç: sentetik başlıkların yüzeyden ayırt edilip edilemediğini ölçmek (benchmark geçerliliği).

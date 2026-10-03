@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, data or code, please cite the article and this archive."
+title: "ISNAD: benchmark data and analysis code for 'Accuracy is not reliability'"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-02
+license: CC-BY-4.0
+authors:
+  - family-names: "Çetinkaya"
+    given-names: "Ali"
+    orcid: "https://orcid.org/0000-0002-7747-6854"
+    affiliation: "Department of Computer Engineering, Faculty of Technology, Selçuk University, Konya, Türkiye"
+repository-code: "https://github.com/alicetinkaya76/isnad-benchmark"
+keywords:
+  - large language models
+  - hallucination
+  - calibration
+  - selective prediction
+  - benchmark contamination
+  - digital humanities
+preferred-citation:
+  type: article
+  title: "Accuracy is not reliability: abstention-aware evaluation of large language models on bio-bibliographic claim verification in classical Islamic scholarship"
+  authors:
+    - family-names: "Çetinkaya"
+      given-names: "Ali"
+      orcid: "https://orcid.org/0000-0002-7747-6854"
+  journal: "Information Processing & Management"
+  publisher:
+    name: "Elsevier"
+  year: 2026
+  status: in-press

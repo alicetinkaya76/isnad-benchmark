@@ -1,0 +1,121 @@
+form_no,probe_id,truth,title
+1,P2-0494,FAKE,el-Künûz fi’l-uṣûli’l-fıkh
+2,P2-0639,FAKE,el-Nüzhe ve’l-tefsîri’l-Kurʾân
+3,P1-0058,REAL,Maʿrifetü aḥzâbi’l-Ḳurʾân ve en-ṣâfihî ve erbâʿihî ve eczâʾih
+4,P1-0305,REAL,Kitâb Yeştemilü ʿale’l-elfâẓi’l-müştereketi’l-vâḳıʿati beyne’l-ʿArabi’l-arbâʾ ve meʿânîhâ
+5,P2-0793,FAKE,Kitâbü’l-Telhîs fî naḥvi’l-ʿArab
+6,P1-0349,REAL,Künhü’l-ahbâr
+7,P2-0478,FAKE,Şerhu’l-Nüzhe
+8,P1-0275,REAL,Fetḥu’r-raḥmân bi-şerḥi Risâleti’ş-Şeyḫ Reslân
+9,P1-0037,REAL,el-Kâşif ʿani’l-Maḥṣûl fî ʿilmi’l-uṣûl
+10,P2-0746,FAKE,Risâle fî esrâri’t-tevḥîd
+11,P2-0565,FAKE,Kitâbü’l-Telhîs fî siyeri’s-selef
+12,P2-0523,FAKE,el-Mesâbîh ve’l-ġarîbi’l-ḥadîs̱
+13,P1-0239,REAL,Bîatnâme
+14,P1-0041,REAL,Muʿînü’n-nebîh ilâ (ʿalâ) maʿrifeti’t-Tenbîh
+15,P2-0634,FAKE,el-Nüzhe fi’l-esrâri’t-tevḥîd
+16,P1-0319,REAL,Risâle fî cedveli’d-deḳāʾiḳ
+17,P2-0577,FAKE,Nüketü’l-Tenvîr
+18,P2-0582,FAKE,el-Mecmaʿ fi’l-siyeri’s-selef
+19,P1-0290,REAL,Meâsîr-i Selim Han
+20,P2-0691,FAKE,el-Telhîs ve’l-siyeri’s-selef
+21,P2-0625,FAKE,Tehzîbü’l-Nüzhe
+22,P1-0296,REAL,Nihâyetü’l-ḳaṣd fî ṣınâʿati’l-faṣd
+23,P2-0496,FAKE,el-Mesâbîh ve’l-aḥkâmi’l-ḳażâʾ
+24,P1-0205,REAL,el-Envârü’l-muḍıyye fî medḥi Ḫayri’l-beriyye
+25,P2-0735,FAKE,Şerhu’l-Mufîd
+26,P2-0696,FAKE,Tehzîbü’l-Mesâbîh
+27,P1-0129,REAL,İn‘âmât Defteri: Defter-i Müsveddât-ı İn‘âmât ve Tasaddukāt ve Gayrihi
+28,P2-0690,FAKE,el-Hidâye fi’l-aḥkâmi’l-ḳażâʾ
+29,P2-0442,FAKE,Şerhu’l-Mişkât
+30,P2-0770,FAKE,Nüketü’l-Telhîs
+31,P1-0230,REAL,Kemâlnâme
+32,P1-0032,REAL,Luṭfu’t-tedbîr fî siyâseti’l-mülûk
+33,P2-0424,FAKE,Risâle fî feżâʾili’ṣ-ṣaḥâbe
+34,P2-0436,FAKE,el-Mesâbîh ve’l-uṣûli’l-fıkh
+35,P2-0795,FAKE,Risâle fî siyeri’s-selef
+36,P2-0539,FAKE,Nüketü’l-Tenvîr
+37,P1-0069,REAL,Aḫbârü’l-aḫyâr
+38,P2-0663,FAKE,Tehzîbü’l-Mecmaʿ
+39,P1-0097,REAL,Silâḥu’l-müʾmin
+40,P1-0308,REAL,"Meẕâhib fi’t-terbiye, baḥs̱ün fi’l-meẕâhibi’t-terbevî ʿinde’l-Ġazzâlî"
+41,P2-0471,FAKE,Kitâbü’l-Mişkât fî feżâʾili’ṣ-ṣaḥâbe
+42,P2-0601,FAKE,Kitâbü’l-Mesâbîh fî feżâʾili’ṣ-ṣaḥâbe
+43,P1-0091,REAL,Muʿcemü’l-müʾerriḫîne’d-Dımaşḳıyyîn
+44,P2-0464,FAKE,Risâle fî uṣûli’l-fıkh
+45,P1-0176,REAL,el-Câmiʿ fi’l-ʿarûż
+46,P1-0236,REAL,Divan
+47,P1-0220,REAL,Mîzânü’l-iʿtidâl
+48,P1-0075,REAL,Fihrist-i Kitâbḫâne-i İhdâʾî-yi Âḳā-yi Seyyid Muḥammed Mişḳāt be-Kitâbḫâne-i Dânişgâh-i Tahrân
+49,P2-0713,FAKE,Nüketü’l-Mişkât
+50,P1-0126,REAL,Târîḫ-i Cürcân ve Rey
+51,P2-0672,FAKE,el-Mecmaʿ fi’l-feżâʾili’ṣ-ṣaḥâbe
+52,P1-0255,REAL,Aḫbâru Ebî Ḥanîfe ve aṣḥâbih
+53,P1-0208,REAL,Kāmûs-ı Riyâziyyât
+54,P2-0467,FAKE,Nüketü’l-Mişkât
+55,P2-0668,FAKE,el-Hidâye ve’l-esrâri’t-tevḥîd
+56,P1-0386,REAL,Kitâbü’l-Ḳavlenc
+57,P1-0102,REAL,Tefsîrü’l-Ḳurʾâni’l-Kerîm
+58,P2-0629,FAKE,el-Mufîd ve’l-uṣûli’l-fıkh
+59,P2-0652,FAKE,el-Künûz fi’l-aḥkâmi’l-ḳażâʾ
+60,P1-0225,REAL,İrşâdü’l-ḳāṣıd
+61,P2-0701,FAKE,Şerhu’l-Mişkât
+62,P2-0474,FAKE,Kitâbü’l-Mecmaʿ fî ʿilmi’l-kelâm
+63,P1-0100,REAL,Kitâb fi’l-ḫilâf
+64,P1-0253,REAL,el-ʿUḳūdü’l-lüʾlüʾiyye
+65,P2-0477,FAKE,el-Cevâhir fi’l-feżâʾili’ṣ-ṣaḥâbe
+66,P1-0356,REAL,Bist Güftâr
+67,P1-0169,REAL,Nüzhetü’l-elibbâʾ
+68,P1-0111,REAL,Künhü’l-ahbâr
+69,P2-0600,FAKE,Nüketü’l-Mişkât
+70,P1-0227,REAL,Ḥallü’ẓ-ẓıl
+71,P1-0094,REAL,Rûznâmçe Defteri
+72,P2-0612,FAKE,Kitâbü’l-Mesâbîh fî naḥvi’l-ʿArab
+73,P1-0282,REAL,Kitâbü Edebi’l-ḳāḍî
+74,P2-0550,FAKE,Nüketü’l-Tenvîr
+75,P1-0003,REAL,Genc-i Bedaḫşân
+76,P1-0304,REAL,el-Keşf (en-Nüket) ve’l-inbâʾ ʿani’l-mütercem bi’l-İḥyâʾ
+77,P2-0644,FAKE,Kitâbü’l-Telhîs fî naḥvi’l-ʿArab
+78,P2-0495,FAKE,el-Mufîd ve’l-tefsîri’l-Kurʾân
+79,P2-0787,FAKE,Tehzîbü’l-Nüzhe
+80,P1-0096,REAL,Kitâbü Emr bi’l-maʿrûf ve’n-nehy ʿani’l-münker
+81,P2-0580,FAKE,Kitâbü’l-Nüzhe fî feżâʾili’ṣ-ṣaḥâbe
+82,P1-0139,REAL,Menâzilü’l-ḳulûb
+83,P1-0078,REAL,Ḥükmü’ṣ-ṣıbyân
+84,P1-0029,REAL,Tehẕîbü Edebi’l-ḳāḍî (ḳażâʾ) li’l-Ḫaṣṣâf
+85,P1-0128,REAL,Vefeyâtü’l-aʿyân
+86,P1-0088,REAL,Nazar-ı Kimyâ
+87,P1-0056,REAL,Şerḥu kifâyeti’ṭ-ṭullâb fî şerḥi muḫtaṣari’l-Cellâb
+88,P1-0365,REAL,es-Siyâsetü’l-medeniyye
+89,P1-0368,REAL,el-Fuṣûl fi’l-uṣûl
+90,P2-0544,FAKE,Kitâbü’l-İrşâd fî âdâbi’l-baḥs̱
+91,P2-0520,FAKE,el-İrşâd fi’l-uṣûli’l-fıkh
+92,P2-0446,FAKE,Tehzîbü’l-Lübâb
+93,P2-0480,FAKE,Tehzîbü’l-Lübâb
+94,P2-0688,FAKE,Nüketü’l-Mecmaʿ
+95,P2-0756,FAKE,Nüketü’l-Lübâb
+96,P2-0633,FAKE,el-Telhîs fi’l-naḥvi’l-ʿArab
+97,P1-0180,REAL,Tefsîr-i Kur’ân-ı Kerîm (Tefsîr-i Kurd Efendi)
+98,P2-0665,FAKE,el-Künûz ve’l-naḥvi’l-ʿArab
+99,P1-0257,REAL,el-Meʾâḫiẕʿ âle’r-Râzî
+100,P1-0166,REAL,Maârifnâme
+101,P1-0186,REAL,Keşfü’l-ḳınâʿ ʿan vechi’s-semâʿ
+102,P2-0614,FAKE,el-Tenvîr fi’l-ʿilmi’l-kelâm
+103,P1-0119,REAL,Meâsir-i Selim Hânî
+104,P2-0409,FAKE,el-Cevâhir fi’l-ʿilmi’l-kelâm
+105,P2-0788,FAKE,el-Künûz ve’l-aḥkâmi’l-ḳażâʾ
+106,P2-0493,FAKE,Tehzîbü’l-Cevâhir
+107,P2-0429,FAKE,el-Mesâbîh fi’l-aḥkâmi’l-ḳażâʾ
+108,P1-0046,REAL,"Sabûhî Şeyh Ahmet Dede: Hayatı, Edebî Kişiliği, Eserleri ve Türkçe Divânının Tenkitli Metni"
+109,P2-0733,FAKE,Risâle fî ʿilmi’l-kelâm
+110,P1-0215,REAL,Meşyeḫa
+111,P2-0734,FAKE,el-Tenvîr fi’l-tefsîri’l-Kurʾân
+112,P1-0182,REAL,Maʿrifetü’l-ḳurrâʾ
+113,P1-0080,REAL,el-Vesâṭa beyne’l-Mütenebbî ve ḫuṣûmih
+114,P2-0505,FAKE,Tehzîbü’l-Mecmaʿ
+115,P1-0165,REAL,el-Müsâmere bi-şerḥi’l-Müsâyere fi’l-ʿaḳāʾidi’l-münciye fi’l-âḫire
+116,P1-0324,REAL,Manṭıḳu’ṭ-ṭayr
+117,P2-0545,FAKE,el-Cevâhir ve’l-ʿilmi’l-kelâm
+118,P2-0705,FAKE,Şerhu’l-Telhîs
+119,P1-0273,REAL,Naḳżü’l-İmâm Ebî Saʿîd ʿOs̱mân b. Saʿîd ʿale’l-Merîsiyyi’l-Cehmiyyi’l-ʿanîd fîme’fterâ ʿalellāhi mine’t-tevḥîd
+120,P1-0327,REAL,Maḳāle fi’l-buḥûs̱i’l-ḫamse ʿani’r-ruʾûsi’s̱-s̱emâniye

@@ -1,0 +1,22 @@
+ISNAD v2 FREEZE — PROVENANCE (added in the second revision round, on reviewer request)
+======================================================================================
+- The v2 freeze (see freeze_manifest.txt) was executed on 1 June 2026.
+- The 31 ATTRIB_FAKE title corrections recorded in the manifest were flagged by an
+  automated normalized-title collision audit (a corrected fake title must be absent
+  from the corpus title inventory, from the scholar's own authored set, and from all
+  other ATTRIB_FAKE items) and regenerated deterministically with a fixed seed (42);
+  see runners/02c_freeze_benchmark_v2.py.
+- The correction criterion references only the title inventory, never any model
+  output; it is therefore blind to model behavior by construction. The changes were
+  executed and approved by the author (the manuscript has a single author).
+- At freeze time, 9,990 result rows from five models existed against the v1 items.
+  The 155 rows referencing the 31 corrected items were deleted; the remaining 9,835
+  rows answer items that are bit-identical between v1 and v2 and were retained. The
+  targeted re-collection of the 155 rows, and all primary-condition runs, completed
+  by 3 June 2026.
+- The first analysis of v2 results ran on 4 June 2026. The v2 freeze therefore
+  precedes every analysis reported in the manuscript and constitutes the
+  exploratory/confirmatory boundary.
+- The full output ledger (tables/supplement/r15_output_ledger.csv, Table S28)
+  decomposes the released 64,216 raw records, including retained pre-retry rows and
+  the aborted 282-row gemma4:31b partial run (excluded from all analyses).
